@@ -1,0 +1,14 @@
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(1, 5, 2500.0, 'Ponte de Safena', 'cirurgia');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(2, 21, 2000.0, 'Cesariana', 'cirurgia');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(3, 22, 35.0, 'Obturação', 'cirurgia');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(4, 18, 500.35, 'Catarata', 'cirurgia');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(5, 23, 160.50, 'Pediatra', 'consulta');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(6, 18, 996.70, 'Miopia', 'cirurgia');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(7, 13, 200.00, 'Estômago', 'consulta');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(8, 19, 150.00, 'Ortopedista', 'consulta');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(9, 3, 200.00, 'Angiografia', 'consulta');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(10, 24, 180.00, 'Check-up', 'consulta');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(11, 5, 70.00, 'Eletrocardiograma', 'consulta');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(12, 9, 150.00, 'Traqueostomia', 'cirurgia');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(13, 18, 996.70, 'Oftamólogo', 'consulta');
+INSERT INTO PROCEDIMENTO(id_procedimento, id_especialidade, preco, nome, tipo_procedimento) VALUES(14, 21, 2000.0, 'Pré-Natal', 'consulta');

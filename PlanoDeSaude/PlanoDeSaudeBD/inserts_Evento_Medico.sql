@@ -1,0 +1,13 @@
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(1, 8, 8, '2011-09-08 18:35', '03.992.927/0001-43');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(2, 5, 1, '2012-12-10 11:06', '03.992.927/0001-43');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(3, 10, 5, '2014-10-28 06:04', '51.334.520/0001-71');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(4, 9, 7, '2010-07-17 11:36', '89.418.013/0001-99');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(5, 4, 7, '2006-08-24 02:16', '36.896.512/0001-25');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(6, 11, 5, '2014-05-04 17:24', '03.992.927/0001-43');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(7, 10, 3, '2011-12-20 15:38', '36.896.512/0001-25');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(8, 11, 9, '2009-07-01 07:29', '89.418.013/0001-99');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(9, 5, 9, '2010-12-19 09:20', '75.436.232/0001-96');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(10, 13, 6, '2014-10-24 19:30', '89.418.013/0001-99');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(11, 12, 4, '2015-06-13 01:17', '36.896.512/0001-25');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(12, 14, 8, '2010-08-17 22:17', '89.418.013/0001-99');
+INSERT INTO EVENTO_MEDICO(id_procedimento_realizado, id_procedimento, id_usuario, data_realizacao, cnpj_estabelecimento) VALUES(13, 1, 2, '2012-05-28 23:19', '51.334.520/0001-71');
