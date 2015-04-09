@@ -2,4 +2,4 @@
 Automatically exported from code.google.com/p/plano-de-saude-ifpb-poo
 
 Simple project developed with learning intentions only, as conclusion of Object Oriented Programming subject at IFPB.
-Gustavo Ribeiro was my partner (and vice-versa).
+<a href = "https://github.com/GugaRibeiro">Gustavo Ribeiro </a>was my partner (and vice-versa).
